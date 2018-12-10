@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LuasKerucut</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="diameter_alas">Diameter alas</string>
+    <string name="diameter">Diameter</string>
+</resources>
